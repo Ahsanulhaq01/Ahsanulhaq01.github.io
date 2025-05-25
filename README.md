@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="profilepic.jpeg" alt="Ahsanulhaq" width="150" style="border-radius: 50%;" />
+</div>
+
 Hello! I’m Ahsanulhaq, a 4th-semester Software Engineering student at Islamia College University, Peshawar. I’m passionate about coding, problem-solving, and building things that matter.
 
 Currently, I’m expanding my skills in JavaScript and Python  while diving into React.js to become a MERN-Stack Developer. Long-term, I also want to explore Machine Learning to bridge the gap between web apps and intelligent systems.
