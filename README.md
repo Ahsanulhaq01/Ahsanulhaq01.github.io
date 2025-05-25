@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profilepic.jpeg" alt="Ahsanulhaq" width="150" style="border-radius: 50%;" />
+  <img src="profilepic.jpeg" alt="Ahsanulhaq" width="150" style="border-radius: 100px;" />
 </div>
 
 Hello! I’m Ahsanulhaq, a 4th-semester Software Engineering student at Islamia College University, Peshawar. I’m passionate about coding, problem-solving, and building things that matter.
