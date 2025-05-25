@@ -1,6 +1,6 @@
 <div align="center">
     <img 
-      src="https://example.com/your-profile-image.jpg" 
+      src="oANsohXv_400x400.jpg" 
       alt="Your Name" 
       width="150" 
       height="150"
