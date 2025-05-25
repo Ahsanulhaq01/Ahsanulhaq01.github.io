@@ -55,8 +55,8 @@ I’m open to collaborations, internships, and mentorship. Reach out if you:
 
 > Are hiring junior developers.
 
-🔗 GitHub: github.com/ahsanulhaq
-📧 Email: [ahsan32723@gmail.com]
+🔗 GitHub: https://github.com/Ahsanulhaq01
+📧 Email: [ulhaqahsan@gmail.com]
 Final Thoughts
 
 The journey from student to developer is challenging but exciting. Every small project, every solved problem, and every new skill gets me closer to my goals.
